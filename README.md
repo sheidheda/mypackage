@@ -1,0 +1,6 @@
+# mypackage
+This library was created as an example bla bla bla......
+
+
+# How to install
+... 
